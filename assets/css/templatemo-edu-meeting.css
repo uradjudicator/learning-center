@@ -434,16 +434,11 @@ header
 
 .header-area .main-nav .nav li:hover a
  {
-  color: #000 ;
-  box-shadow: 0 0 10px #fcd601, 0 0 40px #fcd601, 0 0 80px #fcd601;
-  border-radius: 15px;
-  background: #fcd601;
-  /* transition-delay: 0.1s; */
+  color: #fcd601 ;
 }
 
 .background-header .main-nav .nav li:hover a{
-  color: #000000 !important;
-  
+  color: #4795fa !important;
   opacity: 1;
 }
 
@@ -451,8 +446,6 @@ header
   position: relative;
   padding-right: 15px;
 }
-
-
 
 .background-header .main-nav .nav li.has-sub:after {
   color: #1e1e1e;
